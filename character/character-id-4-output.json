@@ -1,0 +1,11 @@
+{
+  "data": {
+    "character": {
+      "id": "4",
+      "status": "Alive",
+      "species": "Human",
+      "type": "",
+      "gender": "Female"
+    }
+  }
+}
